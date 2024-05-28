@@ -1,11 +1,11 @@
 <template>
   <div class="privacy-container">
     <button @click="goBack" class="back-button">Back</button>
-    <h1>Privacy Policy for Socritique</h1>
+    <h1>Privacy Policy for QuickCritic</h1>
     <p>Last Updated: February 15, 2024</p>
     <p>
-      Socritique ("us", "we", or "our") operates the website https://Socritique.io (the
-      "Service").
+      QuickCritic ("us", "we", or "our") operates the website https://QuickCritic.io (the
+      "Service"). *not yet available*
     </p>
     <h2>1. Information Collection and Use</h2>
     <p>
@@ -36,7 +36,7 @@
       For any questions or concerns regarding this Privacy Policy, please contact us at
       jdcarrothers@icloud.com.
     </p>
-    <p>Thank you for using Socritique!</p>
+    <p>Thank you for using QuickCritic!</p>
   </div>
 </template>
 

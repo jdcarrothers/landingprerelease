@@ -19,7 +19,7 @@
         </ul>
       </div>
       <div class="content bg-emerald">
-        <h3>Advancements with Socritique</h3>
+        <h3>Advancements with QuickCritic</h3>
         <ul>
           <li v-for="(item, index) in withSocratique" :key="index">
             <svg

@@ -1,9 +1,9 @@
 <template>
   <div class="pricing-container">
     <button @click="goBack" class="back-button">Back</button>
-    <h1>Pricing Overview for Socritique</h1>
+    <h1>Pricing Overview for QuickCritic</h1>
     <p>
-      Welcome to Socritique! We use a flexible token-based system to help you manage and
+      Welcome to QuickCritic! We use a flexible token-based system to help you manage and
       mark your students' papers efficiently.
     </p>
 
@@ -36,7 +36,7 @@
     </p>
 
     <p>
-      If you have any questions about our pricing or need assistance, please contact us at
+      If you have any questions about our pricing or need assistance, please contact me at
       jdcarrothers@icloud.com
     </p>
   </div>

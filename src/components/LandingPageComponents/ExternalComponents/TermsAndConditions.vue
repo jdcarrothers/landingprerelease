@@ -1,12 +1,12 @@
 <template>
   <div class="terms-container">
     <button @click="goBack" class="back-button">Back</button>
-    <h1>Terms and Conditions for Socritique</h1>
+    <h1>Terms and Conditions for QuickCritic</h1>
     <p>Last Updated: May 28, 2024</p>
-    <p>Welcome to Socritique!</p>
+    <p>Welcome to QuickCritic!</p>
     <p>
-      Socritique ("us", "we", or "our") operates the website https://socritique.io (the
-      "Service").
+      QuickCritic ("us", "we", or "our") operates the website https://QuickCritic.io (the
+      "Service"). *not yet available*
     </p>
     <p>
       By accessing or using the Service, you agree to be bound by these Terms. If you
@@ -14,15 +14,16 @@
     </p>
     <h2>1. Access to the Service</h2>
     <p>
-      Access to Socritique's software is granted to the user upon registration and email
+      Access to QuickCritic's software is granted to the user upon registration and email
       verification. Users can manage multiple classes, upload mark schemes, take photos of
       student tests, and analyze those tests with AI to provide detailed insights and
       grading. The product can only be used if the user has enough tokens to mark a paper.
+      Please refer to our Pricing Overview for more information.
     </p>
     <p>Users have the option to request a full refund within 7 days of purchase.</p>
     <h2>2. User Data</h2>
     <p>
-      Socritique collects user email and payment information solely for the purpose of
+      QuickCritic collects user email and payment information solely for the purpose of
       providing the Service.
     </p>
     <p>
@@ -45,7 +46,7 @@
       For any questions or concerns regarding these Terms, please contact us at
       jdcarrothers@icloud.com.
     </p>
-    <p>Thank you for using Socritique!</p>
+    <p>Thank you for using QuickCritic!</p>
   </div>
 </template>
 
