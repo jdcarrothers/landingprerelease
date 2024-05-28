@@ -75,6 +75,10 @@ export default {
   methods: {
     async registerInterest() {
       try {
+        if (!this.name || !this.email) {
+          this.errorMessage = "Please fill in all fields.";
+          return;
+        }
         await addDoc(collection(db, "interests"), {
           name: this.name,
           email: this.email,
