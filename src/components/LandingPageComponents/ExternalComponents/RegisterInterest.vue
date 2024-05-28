@@ -81,8 +81,6 @@ export default {
           timestamp: new Date(),
         });
         this.infoMessage = "Thank you for registering your interest!";
-        this.name = "";
-        this.email = "";
       } catch (error) {
         console.error("Error registering interest: ", error);
         this.errorMessage = "Failed to register your interest. Please try again.";
