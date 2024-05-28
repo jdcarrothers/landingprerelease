@@ -1,22 +1,30 @@
 <template>
   <div>
-    <PositivesAndNegatives />
-    <QuoteComponent />
+    <div class="cont2">
+      <PositivesAndNegatives />
+    </div>
+    <div class="cont">
+      <HowToComponent />
+    </div>
   </div>
 </template>
 
 <script>
 import PositivesAndNegatives from "./SecondLevelChildren/PositivesAndNegatives.vue";
-import QuoteComponent from "./SecondLevelChildren/QuoteComponent.vue";
+import HowToComponent from "./SecondLevelChildren/HowToComponent.vue";
 export default {
   name: "SecondLevelParent",
   components: {
     PositivesAndNegatives,
-    QuoteComponent,
+    HowToComponent,
   },
 };
 </script>
 
 <style scoped>
-/* Your component's CSS styles go here */
+@media (max-width: 768px) {
+  .cont {
+    margin-top: 2rem;
+  }
+}
 </style>

@@ -27,9 +27,8 @@
     </div>
     <div class="footer-bottom">
       <p>
-        Hey Curious 👋 I'm <strong>Josh</strong>, the creator of Socritique. You can
-        follow my work on
-        <a href="https://www.linkedin.com/in/joshua-carrothers/">LinkedIn</a>.
+        Hey 👋 I'm <strong>Josh</strong>, the creator of QuickCritic. You can follow my
+        work on <a href="https://www.linkedin.com/in/joshua-carrothers/">LinkedIn</a>.
       </p>
     </div>
   </footer>

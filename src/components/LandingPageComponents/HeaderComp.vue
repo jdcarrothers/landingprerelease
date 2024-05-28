@@ -72,9 +72,9 @@ export default {
 @media (max-width: 600px) {
   .logo {
     height: 40px;
-    margin-left: -10px;
     scale: 1.2;
     margin-top: 5px;
+    margin-left: 5px;
   }
 }
 </style>

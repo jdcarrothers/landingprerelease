@@ -110,7 +110,6 @@ export default {
   font-weight: 800;
   font-size: 2.25rem;
   letter-spacing: -0.05em;
-  margin-bottom: 3rem;
   color: #333;
   padding-top: 5%;
 }
